@@ -52,7 +52,7 @@ fun updateBook(){
 }
 
 fun deleteBook(){
-    println("You chose Delete Book")
+    println(" You chose Delete Book")
 }
 
 fun exitApp(){
